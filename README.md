@@ -10,6 +10,7 @@ TBD
 This code was written and tested using MATLAB version 2019b. Two external toolboxes are required to run the code:
 - Chronux toolbox (http://chronux.org/)
 - Circular Statistics toolbox (https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics)
+
 To use the external toolboxes, download the toolbox and save it to the main folder then add the necessary functions to your MATLAB file path.
 
 ## Licence
