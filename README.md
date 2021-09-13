@@ -7,7 +7,7 @@ TBD
 # Usage Guide
 
 ## Requirements
-This code was written and tested using MATLAB version 2019b. Two external toolboxes are required to run the code:
+This code was written and tested using MATLAB v2019b. Two external toolboxes are required to run the code:
 - Chronux toolbox (http://chronux.org/)
 - Circular Statistics toolbox (https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics)
 
